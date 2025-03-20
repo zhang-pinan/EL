@@ -1,0 +1,5 @@
+# Ignore all files under output directory
+output/*
+
+# Ignore all files under data directory
+data/*
